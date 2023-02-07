@@ -15,7 +15,7 @@ Licence: [MIT][license]
 6. [Ветвление][chapter_6]
 7. [GitHub][chapter_7]
 8. [Генерация открытого SSH ключа][chapter_8]
-9. [GUI][chapter_9]
+9. [GUI-клиенты][chapter_9]
 10. [Поддержка Git в IDE][chapter_10]
 
 
